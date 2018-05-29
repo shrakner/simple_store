@@ -1,0 +1,14 @@
+sub, sup {
+    font-size: 0.5em;
+}
+
+table, table td {
+	border-collapse: collapse;
+	border: 1px solid #CCC;
+	width: 100%;
+}
+
+th {
+	background: gray;
+	color: white;
+}
